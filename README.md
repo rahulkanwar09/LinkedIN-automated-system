@@ -32,3 +32,13 @@ Create a new application to obtain the client ID and client secret.
 
 **Update the script with your LinkedIn API credentials:**
 Open the script file (linkedin_monitor.py) and replace the placeholders YOUR_CLIENT_ID, YOU
+
+**Important Notes**
+Ensure that your usage of the LinkedIn API adheres to the LinkedIn API Terms of Service and privacy rules.
+Be mindful of LinkedIn's policies regarding connection requests and messaging to avoid any potential violations or restrictions.
+
+**LICENSE**
+
+Make sure to replace the placeholders `your-username` in the GitHub repository URL and `your-username/linkedin-competitor-activity-monitor.git` in the clone command with your actual GitHub username and repository name.
+
+Feel free to add or modify sections in the README file to provide more information or instructions based on your specific use case and project requirements.
