@@ -1,6 +1,6 @@
 # LinkedIn Competitor Activity Monitor
 
-This Python script automates the process of monitoring competitors' LinkedIn activity and generating hyper-personalized connection requests based on the new connections made by competitor decision-makers. The script uses the LinkedIn API to retrieve the necessary data and send connection requests.
+This Python script automates the process of monitoring competitors' LinkedIn activity and generating hyper-personalized connection requests based on the new connections made by competitor decision-makers. The script uses the LinkedIn API to retrieve the necessary data and send connection request.
 
 ## Features
 
